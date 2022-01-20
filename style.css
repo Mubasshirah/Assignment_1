@@ -1,0 +1,220 @@
+#main{
+    width: 100%;
+    height: 1000px;
+   
+    
+}
+body{
+    font-family: sans-serif;
+   
+}
+.navbar{
+    width: 800px;
+    height: 80px;
+    
+    margin: 0 auto;
+    background-color: whitesmoke;
+}
+.left{
+    width: 100px;
+    float: left;
+}
+.left img{
+    width: 100px;
+   
+
+}
+.right{
+    width: 750px;
+    
+    text-align: center;
+}
+.right a{
+    text-decoration: none;
+    color:rgb(243, 125, 29);
+    font-size: 20px;
+}
+
+
+.nav{
+    width: 175px;
+    line-height: 80px;
+}
+.banner{
+    margin: 0 auto;
+    width: 800px;
+    height: 350px;
+    background-image: url(./images/1.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.banh1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(243, 125, 29);
+    
+    display: inline-block;
+    margin: 120px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    padding-left: 25px;
+}
+.banner p{
+    text-align: center;
+    margin: 100px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+
+    color: white;
+    background-color: rgb(243, 125, 29);
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+ .banner button{
+    padding: 20px 30px;
+    text-align: center;
+    background-color: rgb(243, 125, 29);
+    border: none;
+    text-align: center;
+    margin-left:330px;
+    display: inline;
+    font-size: 15px;
+    color: white;
+} 
+.banner a{
+    text-decoration: none;
+    color: white;
+}
+.description{
+    width: 800px;
+    height: 250px;
+    margin: 0 auto;
+   
+}
+.description h1{
+    color:rgb(243, 125, 29) ;
+    display: inline-block;
+   
+    margin-left: 225px;
+}
+.description button{
+    padding: 10px 30px;
+    text-align: center;
+    background-color: rgb(243, 125, 29);
+    border: none;
+    text-align: center;
+    margin-left:330px;
+    display: inline;
+    font-size: 15px;
+    color: white;
+}
+.description a{
+    text-decoration: none;
+    color: white;
+}
+.description p{
+    padding: 30px;
+    border: 1px  solid rgb(243, 125, 29);
+    text-align: center;
+    margin-top: 0px;
+   color: rgb(243, 125, 29);
+}
+.card{
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: rgb(243, 125, 29);
+}
+
+.card1{
+    width: 240px;
+    height: 320px;
+    float: left;
+    margin: 20px 18px;
+    margin-top: 50px;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.card1 img{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+.card2 img{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+.card3 img{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+.card2{
+    float: left;
+    width: 240px;
+    height: 320px;
+    margin: 20px 0px;
+    margin-top: 50px;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 10px;
+    
+}
+.card3{
+    float: left;
+    width: 240px;
+    height: 320px;
+    margin: 20px 18px;
+    margin-top: 50px;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 10px;
+    
+}
+.card h2,p{
+   color: white ;
+}
+.contact{
+    width: 800px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.conleft{
+    width: 350px;
+    height: 100%;
+    float: left;
+    margin-right: 50px;
+ 
+ 
+}
+.conleft input{
+    width: 130px;
+    height: 20px;
+}
+.conright h2{
+    text-align: left;
+    color: rgb(243, 125, 29);
+}
+.conright p{
+    text-align: left;
+    color: black;
+}
+.conright{
+    width: 350px;
+    height: 100%;
+    float: left;
+    padding: 20px;
+   
+}
+.footer{
+    width: 800px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: rgb(243, 125, 29);
+}
+.footer p{
+    color: white;
+    padding-left: 20px;
+}
